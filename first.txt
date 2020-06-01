@@ -4,3 +4,4 @@ Learn Workflow
 .git commit
 .get remove
 .git status
+.git diff
